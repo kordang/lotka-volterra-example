@@ -50,3 +50,7 @@ rsconnect/
 
 *.html
 /*_files
+.Rproj.user
+.Rdata
+.DS_Store
+.quarto
